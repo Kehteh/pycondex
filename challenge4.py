@@ -11,4 +11,4 @@ def login(password: str):
         return True 
     else:
         return False
-print(login(password="code_destr0yer"))
+print(login(password="code_ thief21"))
