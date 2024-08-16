@@ -34,7 +34,6 @@ def can_ride_rollercoaster(rider_height: float):
         
     Returns: a boolean representing whether or not the prospective rider is allowed on the rollercoaster.
     """
-
     pass
 
 def login(password: str):
